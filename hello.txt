@@ -1,4 +1,4 @@
 Hello Main
 Hello Test
 Git remote practice
-Edited on GitHub
+Git pull practice
