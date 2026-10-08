@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Hello from LOCAL
-=======
-Hello from GITHUB
->>>>>>> c7504b0fb15084b6ab22adae405b9383f1dac3c3
+Hello from LOCAL and GITHUB
 Hello Test
 Git remote practice
 Git pull practice
