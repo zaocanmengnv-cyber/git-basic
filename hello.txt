@@ -1,4 +1,4 @@
-Hello Main
+Hello from GITHUB
 Hello Test
 Git remote practice
 Git pull practice
